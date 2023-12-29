@@ -1,0 +1,34 @@
+add ~/Media/
+clear
+add
+cmusadd
+ add or add <path_to_directory>"
+set cmusadd_cmd=shell 'cmus-conditional-add'
+!hello
+!echo hello
+add Media/Music/
+add ~/Media/Music/
+add music_path/
+update
+wq
+Wq
+q
+add ./
+add./
+add Media/
+Add Media
+add Music
+colorscheme no_clown_fiesta
+colorscheme octa256
+colorscheme onedark
+save
+r
+set shuffle
+set shuffle=on
+bind -c player-common 9 vol -5
+9
+add ~/Downloads/
+Q
+add downlo
+add Downloads/
+remove Downloads
